@@ -1,4 +1,4 @@
-# gnuradio-3.8
+# gnuradio-3.7
 
 Docker build of gnuradio-3.7, from source, on Ubuntu 18.04.
 
